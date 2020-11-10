@@ -1,0 +1,38 @@
+_repo: A-Village-in-Picardy_63637
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Neilson, William Allan
+    alias: Neilson, W. A. (William Allan)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '1119'
+    url: http://www.gutenberg.org/2009/agents/1119
+    wikipedia: http://en.wikipedia.org/wiki/William_Allen_Neilson
+  illustrator:
+    agent_name: Poulbot, Francisque
+    aliases:
+    - Poulbot
+    - Poulbot, Francisque Louis Gustave
+    birthdate: 1879
+    deathdate: 1946
+    gutenberg_agent_id: '40226'
+    url: http://www.gutenberg.org/2009/agents/40226
+creator:
+  author:
+    agent_name: Gaines, Ruth
+    gutenberg_agent_id: '52533'
+    url: http://www.gutenberg.org/2009/agents/52533
+description: ''
+gutenberg_issued: '2020-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Village in Picardy
+url: http://www.gutenberg.org/ebooks/63637
